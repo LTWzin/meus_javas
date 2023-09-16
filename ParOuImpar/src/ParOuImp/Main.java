@@ -15,6 +15,7 @@ public class Main {
 		else {
 			System.out.println("O numero é impar!");
 		}
+		System.out.print("FIM!");
 		sc.close();
 	}
 
