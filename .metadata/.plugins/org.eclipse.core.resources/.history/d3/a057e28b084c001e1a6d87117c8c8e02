@@ -1,0 +1,15 @@
+package Loja;
+
+import java.util.Scanner;
+
+public class LojaDePecas {
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		String esc = sc.next();
+		int codigo = esc[0];
+
+	}
+
+}

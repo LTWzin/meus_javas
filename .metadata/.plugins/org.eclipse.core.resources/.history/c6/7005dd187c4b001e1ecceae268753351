@@ -1,0 +1,19 @@
+package Loja;
+
+import java.util.Scanner;
+
+public class LojaDePecas {
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		double esc = sc.nextDouble();
+		double esc1 = sc.nextDouble();
+		double esc2 = sc.nextDouble();
+		
+		System.out.printf("%f, %f, %f. ", esc, esc1, esc2);
+		sc.close();
+		
+	}
+
+}

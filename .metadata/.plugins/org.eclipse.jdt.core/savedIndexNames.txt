@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+C:\Users\wital\OneDrive\Documentos\Java\.metadata\.plugins\org.eclipse.jdt.core
+219472140.index
+2951770442.index
+204434604.index
+1934808068.index
+1865797976.index
+3144206669.index
+462229067.index
+98646787.index
+1089948274.index
+3863336431.index

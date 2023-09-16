@@ -1,0 +1,30 @@
+package Retangular;
+
+import java.util.Locale;
+import java.util.Scanner; 
+
+public class TerrenoRetangular {
+	
+	public static void main(String [] args) {
+		
+		Locale.setDefault(Locale.US);
+		
+		double largura, comprimento, metroQuadrado, area, preco;
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("Digite o valor do comprimento: ");
+		comprimento = sc.nextDouble();
+		System.out.print("Digite o valor da largura: ");
+		largura = sc.nextDouble();
+		area = largura * comprimento;
+		System.out.print("Digite o valor por metro quadrado do terreno: ");
+		metroQuadrado = sc.nextDouble();
+		preco = metroQuadrado * area;
+		System.out.printf("A area desse terreno é de %.2fm²", area);
+		System.out.printf("O preço total da area desse terreno é de R$ %.2f", preco);
+		
+		sc.close();
+	}
+
+}

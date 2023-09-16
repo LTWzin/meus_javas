@@ -1,0 +1,18 @@
+package Loja;
+
+import java.util.Scanner;
+
+public class LojaDePecas {
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		String esc = sc.next();
+		
+		
+		System.out.printf("%s, %s, %s", esc[0], esc[1], esc[2]);
+		sc.close();
+		
+	}
+
+}

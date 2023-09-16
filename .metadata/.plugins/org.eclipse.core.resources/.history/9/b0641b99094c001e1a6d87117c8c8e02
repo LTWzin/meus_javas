@@ -1,0 +1,26 @@
+package Loja;
+
+import java.util.Scanner;
+
+public class LojaDePecas {
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int cod1, cod2, quantia1, quantia2;
+		double prec1, prec2, total;
+		
+		System.out.print("Digite as informaçoes do produto 1:");
+		System.out.println("(codigo quantia e preço)");
+		cod1 = sc.nextInt();
+		quantia1 = sc.nextInt();
+		prec1 = sc.nextDouble();
+		
+		System.out.print("Digite as informacoes do produto 2:");
+		
+		sc.close();
+			
+
+	}
+
+}
