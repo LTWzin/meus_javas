@@ -4,5 +4,5 @@
 /**
  * 
  */
-module ParOuImpar {
+module Impares {
 }
