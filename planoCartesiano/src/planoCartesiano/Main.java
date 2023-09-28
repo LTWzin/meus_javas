@@ -19,7 +19,7 @@ public class Main {
 				
 				if (X > 0 ) {
 					if (Y > 0) {
-						System.out.println("Ambos possitivo: Quadrante 2.\n");
+						System.out.println("Ambos possitivo: Quadrante 1.\n");
 					}
 					else {
 						System.out.println("X positivo e Y negativo: Quadrante 4.\n");
@@ -28,7 +28,7 @@ public class Main {
 				
 				else {
 					if (Y > 0) {
-						System.out.println("X negativo e Y positivo: Quadrante 1.\n");
+						System.out.println("X negativo e Y positivo: Quadrante 2.\n");
 					}
 					else {
 						System.out.println("Ambos negativo: Quadrante 3.\n");
