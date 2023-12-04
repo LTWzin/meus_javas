@@ -13,9 +13,9 @@ public class Program {
 		
 		CurrencyConverter conversor = new CurrencyConverter();
 		
-		System.out.print("DIGITE O PRECO DO DOLLAR: ");
+		System.out.print("DIGITE O PRECO DO DOLAR: ");
 		conversor.cotacao = sc.nextDouble(); 
-		System.out.print("DIGITE A QUANTIA EM DOLLARS DESEJADA: ");
+		System.out.print("DIGITE A QUANTIA EM DOLARS DESEJADA: ");
 		conversor.dollars = sc.nextDouble();
 		
 		System.out.println("APLICADA 6% DE IOF SOBRE O VALOR EM DOLAR");

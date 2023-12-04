@@ -9,7 +9,7 @@ public class Main {
 		
 //	Programa para entregar apenas os numeros impares entre 0 e X;
 		
-		System.out.println("Digite um numero inteiro:");
+		System.out.print("Digite um numero inteiro:  ");
 		int X = sc.nextInt();
 		
 		for (int c = 0; c != X; c += 1) {

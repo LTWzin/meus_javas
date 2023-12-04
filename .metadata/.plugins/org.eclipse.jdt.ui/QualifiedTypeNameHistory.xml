@@ -7,7 +7,7 @@
     <fullyQualifiedTypeName name="entidade.Funcionario"/>
     <fullyQualifiedTypeName name="entidade.Aluno"/>
     <fullyQualifiedTypeName name="entities.CurrencyConverter"/>
+    <fullyQualifiedTypeName name="entities.client"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="entities.client"/>
 </qualifiedTypeNameHistroy>
